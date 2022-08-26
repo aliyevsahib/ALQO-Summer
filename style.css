@@ -379,3 +379,174 @@ main {
     line-height: 36px;
     color: #000000;
 }
+
+.head-text-4 {
+    position: absolute;
+    width: 905px;
+    height: 93px;
+    left: 121px;
+    top: 3246px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+.p-4-box-1 {
+    position: absolute;
+    width: 399px;
+    height: 328px;
+    left: 84px;
+    top: 3434px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.statue {
+    position: absolute;
+    width: 399px;
+    height: 160px;
+}
+
+.p4-mini-title-1 {
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 20px;
+    top: 171px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.p4-mini-text-1 {
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 15px;
+    top: 242px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.p-4-box-2 {
+    position: absolute;
+    width: 399px;
+    height: 328px;
+    left: 520px;
+    top: 3434px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.paper {
+    position: absolute;
+    width: 399px;
+    height: 160px;
+}
+
+.p4-mini-title-2 {
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 20px;
+    top: 171px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.p4-mini-text-2 {
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 19px;
+    top: 242px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.p-4-box-3 {
+    position: absolute;
+    width: 399px;
+    height: 328px;
+    left: 956px;
+    top: 3434px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.film-card {
+    position: absolute;
+    width: 399px;
+    height: 160px;
+}
+
+.p4-mini-title-3 {
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 20px;
+    top: 171px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.p4-mini-text-3 {
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 19px;
+    top: 242px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 32px;
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
