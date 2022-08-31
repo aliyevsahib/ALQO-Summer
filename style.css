@@ -753,82 +753,82 @@ main {
     font-size: 25px;
     line-height: 32px;
     color: #000000;
-    }
+}    
 
-    .part-5 {
-        position: absolute;
-        width: 1440px;
-        height: 780px;
-        left: -1px;
-        top: 4625px;
-        background: #EFEFEF;
-    }
+.part-5 {
+    position: absolute;
+    width: 1440px;
+    height: 780px;
+    left: -1px;
+    top: 4625px;
+    background: #EFEFEF;
+}
     
-    .head-text-5 {
-        position: absolute;
-        width: 987px;
-        height: 93px;
-        left: 122px;
-        top: 91px;
-        font-family: 'Roboto Slab';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 55px;
-        line-height: 56px;
-        color: #000000;
-    }
+.head-text-5 {
+    position: absolute;
+    width: 987px;
+    height: 93px;
+    left: 122px;
+    top: 91px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 56px;
+    color: #000000;
+}
     
-    .p5-card {
-        position: absolute;
-        width: 791px;
-        height: 451px;
-        left: 126px;
-        top: 218px;
-        background: #FFFFFF;
-        box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
-        border-radius: 30px;
-    }
+.p5-card {
+    position: absolute;
+    width: 791px;
+    height: 451px;
+    left: 126px;
+    top: 218px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
     
-    .p5-mini-text {
-        position: absolute;
-        width: 700px;
-        height: 203px;
-        left: 45px;
-        top: 40px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 30px;
-        color: #000000;
-    }
+.p5-mini-text {
+    position: absolute;
+    width: 700px;
+    height: 203px;
+    left: 45px;
+    top: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
     
-    .profile-img {
-        position: absolute;
-        width: 190px;
-        height: 169px;
-        left: 26px;
-        top: 253px;
-    }
+.profile-img {
+    position: absolute;
+    width: 190px;
+    height: 169px;
+    left: 26px;
+    top: 253px;
+}
     
-    .p5-mini-title {
-        position: absolute;
-        width: 353px;
-        height: 59px;
-        left: 246px;
-        top: 293px;
-        font-family: 'Roboto Slab';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 30px;
-        line-height: 30px;
-        color: #000000;
-    }
+.p5-mini-title {
+    position: absolute;
+    width: 353px;
+    height: 59px;
+    left: 246px;
+    top: 293px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    color: #000000;
+}
     
-    .facebook {
-        position: absolute;
-        width: 32px;
-        height: 31px;
-        left: 246px;
-        top: 352px;
-    }
+.facebook {
+    position: absolute;
+    width: 32px;
+    height: 31px;
+    left: 246px;
+    top: 352px;
+}
