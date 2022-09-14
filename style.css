@@ -832,3 +832,217 @@ main {
     left: 246px;
     top: 352px;
 }
+
+.part-6 {
+    position: absolute;
+    width: 1440px;
+    height: 780px;
+    left: -1px;
+    top: 5405px;
+    background: #9DC9C8;
+}
+
+.head-text-6 {
+    position: absolute;
+    width: 908px;
+    height: 66px;
+    left: 122px;
+    top: 179px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.part-6-p-1 {
+    position: absolute;
+    width: 170px;
+    height: 32px;
+    left: 122px;
+    top: 299px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.p6-mini-title {
+    position: absolute;
+    width: 481px;
+    height: 181px;
+    left: 122px;
+    top: 329px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 81px;
+    color: #000000;
+}
+
+.part-6-p-2 {
+    position: absolute;
+    width: 294px;
+    height: 32px;
+    left: 122px;
+    top: 484px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.p6-mini-text-1 {
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 122px;
+    top: 525px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.part-6-p-3 {
+    position: absolute;
+    width: 322px;
+    height: 32px;
+    left: 486px;
+    top: 484px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.p6-mini-text-2 {
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 486px;
+    top: 525px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.part-7 {
+    position: absolute;
+    width: 1440px;
+    height: 390px;
+    left: -1px;
+    top: 6185px;
+    background: #000000;
+}
+
+.part-7-text-img {
+    position: absolute;
+    width: 115px;
+    height: 68px;
+    left: 122px;
+    top: 50px;
+}
+
+.part-7-instagram {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    left: 122px;
+    top: 148px;
+}
+
+.part-7-facebook {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 173px;
+    top: 148px;
+}
+
+.part-7-wk-logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 226px;
+    top: 146px;
+}
+
+.part-7-whatsapp {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 286px;
+    top: 147px;
+}
+
+.part-7-phone {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 976px;
+    top: 54px;
+}
+
+.part-7-phone-text {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 1025px;
+    top: 59px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.part-7-email {
+    position: absolute;
+    width: 27px;
+    height: 18px;
+    left: 976px;
+    top: 106px;
+}
+
+.part-7-email-text {
+    position: absolute;
+    width: 269px;
+    height: 40px;
+    left: 1025px;
+    top: 102px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.part-7-end-text {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 122px;
+    top: 270px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 118px;
+    color: #FFFFFF;
+}
